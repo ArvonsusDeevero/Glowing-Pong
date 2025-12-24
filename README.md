@@ -50,7 +50,8 @@ Game ini dirancang sebagai tugas semester dan dimainkan menggunakan **keyboard**
 
 ---
 
-## 📁 Struktur Folder (contoh)
+## 📁 Struktur Folder
+
 Glowing-Pong/
 ├── Assets/
 │ ├── Scenes/
