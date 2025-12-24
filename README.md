@@ -72,13 +72,6 @@ Glowing-Pong/
 
 ---
 
-## 🙌 Kontribusi
-
-Kalau kamu ingin **menambah fitur baru**, **memperbaiki bug**, atau **membuat versi lain**, bebas banget!  
-Silakan buat **pull request** atau buka *issue* kalau ada ide 💡
-
----
-
 ## 📝 Lisensi
 
 Proyek ini bebas digunakan, dikembangkan, dan dibagikan 🎉
