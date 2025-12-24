@@ -85,5 +85,5 @@ Proyek ini bebas digunakan, dikembangkan, dan dibagikan 🎉
 
 ---
 
-Selamat bermain dan semoga project kamu semakin keren! 🚀
+Selamat bermain! 🚀
 
